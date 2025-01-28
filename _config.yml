@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Adkhouse # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 가정, 요리, 청소부터 시간 절약 팁까지 생활을 편리하게 만드는 방법을 공유합니다. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   가정, 요리, 청소부터 시간 절약 팁까지 생활을 편리하게 만드는 방법을 공유합니다.
